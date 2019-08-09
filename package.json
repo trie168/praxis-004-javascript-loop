@@ -1,0 +1,18 @@
+{
+    "name": "praxis-004-javascript-loop",
+    "version": "1.0.0",
+    "description": "Exercise JavaScript Loop",
+    "main": "index.js",
+    "author": "trie168",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.1"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    }
+}
